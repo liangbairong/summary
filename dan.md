@@ -2,7 +2,7 @@
 string number boolean undefined null object  Symbol
 # 2. JavaScript对象的底层数据结构是什么
 object array function
-
+ 
 
 # 3. Symbol类型在实际开发中的应用、可手动实现一个简单的Symbol
 Symbol 是完全不一样的东西。一旦创建后就不可更改，不能对它们设置属性（如果在严格模式下尝试这样做，你将得到一个 TypeError）。它们可以作为属性名，这时它们和字符串的属性名没有什么区别。
